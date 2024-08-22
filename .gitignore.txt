@@ -1,2 +1,0 @@
-# agora foi
-*.mp3
